@@ -1,0 +1,75 @@
+:root {
+    --banner-bottom: 22vh;
+    --banner-left: 2vh;
+    --banner-width: 400px;
+}
+
+body {
+    margin: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+#banner {
+    position: absolute;
+    bottom: var(--banner-bottom);
+    left: var(--banner-left);
+    opacity: 0;
+    transition: none;
+    z-index: 10;
+    animation-fill-mode: forwards;
+    transform: none;
+}
+
+#banner img {
+    width: var(--banner-width);
+    height: auto;
+    display: block;
+}
+
+@keyframes slideIn {
+    0% { bottom: 0vh; opacity: 0; }
+    100% { bottom: var(--banner-bottom); opacity: 1; }
+}
+@keyframes slideOut {
+    0% { bottom: var(--banner-bottom); opacity: 1; }
+    100% { bottom: 0vh; opacity: 0; }
+}
+
+.animate-in-slide {
+    animation: slideIn 0.6s ease-out forwards;
+}
+.animate-out-slide {
+    animation: slideOut 0.6s ease-in forwards;
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+@keyframes fadeOut {
+    from { opacity: 1; }
+    to { opacity: 0; }
+}
+.animate-in-fade {
+    animation: fadeIn 0.5s ease-out forwards;
+}
+.animate-out-fade {
+    animation: fadeOut 0.5s ease-in forwards;
+}
+
+@keyframes zoomIn {
+    from { transform: scale(0.5); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+}
+@keyframes zoomOut {
+    from { transform: scale(1); opacity: 1; }
+    to { transform: scale(0.5); opacity: 0; }
+}
+.animate-in-zoom {
+    animation: zoomIn 0.6s ease-out forwards;
+}
+.animate-out-zoom {
+    animation: zoomOut 0.6s ease-in forwards;
+}
+
