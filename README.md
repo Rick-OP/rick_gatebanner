@@ -76,9 +76,15 @@ Set `debug = true` to visualize zones during testing.
 
 ## 📸 Preview
 
-> Example banner with image + audio:
-> ![Radioactive Gate Banner](client/ui/assets/gate1.png)
+> TO SEE PREVIEW:
+> ![PREVIEW](https://www.youtube.com/watch?v=Lrmw_gTYYSs)
 
+---
+## 📸 Example Banner 
+
+> Example banner image
+> ![Radioactive Gate Banner](https://raw.githubusercontent.com/Rick-OP/rick_gatebanner/main/client/ui/assets/gate1.png)
+> You can use this anywhere like, POLICE ZONE, GANG ZONE, SAFEZONE etc. 
 ---
 
 ## 📃 License
