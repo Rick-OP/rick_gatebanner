@@ -75,7 +75,7 @@ Set `debug = true` to visualize zones during testing.
 
 ## 🎬 Preview
 
-> [Watch Preview on YouTube](https://www.youtube.com/watch?v=Lrmw_gTYYSs)
+> [Watch Preview on YouTube]([https://www.youtube.com/watch?v=Lrmw_gTYYSs](https://youtu.be/YXe5mGXp_-M?si=h51_3fKN_GCn103Z))
 
 ---
 ##  Example Banner 
