@@ -1,8 +1,4 @@
-
-
 ---
-
-
 # 🧾 Entry Zone Banner System for FiveM
 
 A lightweight and flexible script for FiveM that displays dynamic UI banners with custom images, sounds, and animations when players enter defined areas (e.g., gates, zones, restricted areas).
@@ -89,6 +85,3 @@ You can customize this for any place like, POLICE ZONE, GANG ZONE, SAFEZONE etc.
 
 This project is open-source under the MIT License.
 Feel free to modify and adapt it for your own FiveM server.
-
-
-```
