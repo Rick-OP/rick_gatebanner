@@ -1,8 +1,8 @@
-Here’s a clean and informative `README.md` for your GitHub repo:
+
 
 ---
 
-```markdown
+
 # 🧾 Entry Zone Banner System for FiveM
 
 A lightweight and flexible script for FiveM that displays dynamic UI banners with custom images, sounds, and animations when players enter defined areas (e.g., gates, zones, restricted areas).
@@ -24,7 +24,6 @@ A lightweight and flexible script for FiveM that displays dynamic UI banners wit
 
 1. **Clone or download** this repository into your FiveM `resources` folder.
 2. Add this to your `server.cfg`:
-```
 
 ensure entry-banner
 
