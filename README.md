@@ -82,7 +82,7 @@ Set `debug = true` to visualize zones during testing.
 
 > Example banner image
 > ![Radioactive Gate Banner](https://raw.githubusercontent.com/Rick-OP/rick_gatebanner/main/client/ui/assets/gate1.png)
-> You can use this anywhere like, POLICE ZONE, GANG ZONE, SAFEZONE etc. 
+You can customize this for any place like, POLICE ZONE, GANG ZONE, SAFEZONE etc. 
 ---
 
 ## 📃 License
