@@ -74,13 +74,12 @@ Set `debug = true` to visualize zones during testing.
 
 ---
 
-## 📸 Preview
+## 🎬 Preview
 
-> TO SEE PREVIEW:
-> ![PREVIEW](https://www.youtube.com/watch?v=Lrmw_gTYYSs)
+> [Watch Preview on YouTube](https://www.youtube.com/watch?v=Lrmw_gTYYSs)
 
 ---
-## 📸 Example Banner 
+##  Example Banner 
 
 > Example banner image
 > ![Radioactive Gate Banner](https://raw.githubusercontent.com/Rick-OP/rick_gatebanner/main/client/ui/assets/gate1.png)
