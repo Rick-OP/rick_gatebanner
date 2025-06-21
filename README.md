@@ -83,5 +83,4 @@ You can customize this for any place like, POLICE ZONE, GANG ZONE, SAFEZONE etc.
 
 ## 📃 License
 
-This project is open-source under the MIT License.
-Feel free to modify and adapt it for your own FiveM server.
+This project is licensed under the [GNU GPL License](LICENSE).
